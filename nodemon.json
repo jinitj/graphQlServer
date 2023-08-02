@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "rotox24042",
+        "MONGO_PASSWORD": "QrTdXpSHL48tHzjK",
+        "MONGO_DB": "blogPostApp",
+        "MY_JWT_KEY": "mySecretHashKeyForRepurposeGlobal" 
+    }
+}
